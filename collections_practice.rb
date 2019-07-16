@@ -51,8 +51,7 @@ def sum_array(arr)
 end
 
 def add_s(arr)
-  arr.each_with_index.collect{|element, index| }
-  binding.pry
+  arr.each_with_index.collect{|element, index| binding.pry}
 end
 
 
