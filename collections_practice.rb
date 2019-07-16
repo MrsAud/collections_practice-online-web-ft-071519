@@ -44,3 +44,15 @@ def find_a(arr)
     element.start_with?("a")
   end
 end
+
+def sum_array(arr)
+  
+end
+
+
+
+
+
+
+
+
