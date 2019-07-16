@@ -50,6 +50,11 @@ def sum_array(arr)
   arr.inject { |sum, n| sum + n }
 end
 
+def add_s(arr)
+  arr.each_with_index.collect{|element, index| }
+  binding.pry
+end
+
 
 
 
