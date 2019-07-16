@@ -38,3 +38,7 @@ def kesha_maker(arr)
     element = element_arr.join('')
   end
 end
+
+def find_a(arr)
+  
+end
