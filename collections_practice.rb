@@ -41,5 +41,6 @@ end
 
 def find_a(arr)
   arr.select do |element|
-    element.start_with?
+    element.start_with?("a")
+  end
 end
