@@ -55,7 +55,6 @@ def add_s(arr)
     if index != 1
       element = element + "s"
     end
-    binding.pry
   end
 end
 
