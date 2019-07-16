@@ -46,7 +46,7 @@ def find_a(arr)
 end
 
 def sum_array(arr)
-  
+  arr.sum
 end
 
 
